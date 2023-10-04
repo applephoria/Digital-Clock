@@ -1,8 +1,8 @@
-# Relógio digital </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# 🕑 Relógio digital </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### 👨‍💻 Criação de um relógio digital usando Html, CSS, JavaScript
 
-### Experimente agora o meu projeto 👉 <a href="https://applephoria.github.io/Digital-Clock/" target="_blank">Clicando aqui</a>
+### ### Experimente agora o meu projeto 👉 [Clicando aqui](https://applephoria.github.io/Digital-Clock/)
 
 
 ## 📷 Imagem
