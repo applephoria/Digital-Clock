@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap'); /*-- Importei a font Poppins do google fonts */
+
+/* Selecionamos todos os elementos de CSS */
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', Helvetica, sans-serif; /* Importei a font */
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center; /* Os itens flexíveis serão centralizados verticalmente no contêiner */
+    justify-content: center; /* Os itens flexíveis serão centralizados horizontalmente no contêiner. */
+    background: #dce0e5;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 205px;
+    width: 550px;
+    background: #4f6d6d;
+    border-radius: 13px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.5);
+}
+
+.container div {      /* Controlo todos os blocos de coloração preta*/
+    height: 170px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(5, 5, 5, 0.9);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
+    border-radius: 7px;
+
+    flex-direction: column;
+}
+
+/* spans */
+
+#horas, #minutos, #segundos {
+    height: 170px;
+    width: 150px;
+    font-size: 80px;
+    font-weight: bolder;
+    color: #f6f9f7;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    padding-top: 26px;
+  }
+
+  .container span {
+    margin: -10px;
+    height: 170px;
+    width: 150px;
+    font-size: 11px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    color: #f6f9f7;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza na vertical */
+  }
+  
