@@ -1,14 +1,16 @@
-#   Relógio digital </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+exi#   Relógio digital </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 
 ### 👨‍💻 Criação de um relógio digital usando Html, CSS, JavaScript
 
 
 
 ## 📷 Imagem
-![Print da tela do projeto](Print.png)
+![Print](https://github.com/applephoria/Digital-Clock/assets/127143564/9346b445-2359-41eb-8d3e-59dc0eb17cfc)
+
 
 ## 🖌️ Paleta de cores
-![Paleta de cores](<Desktop - 1-1.jpg>)
+![Desktop - 1](https://github.com/applephoria/Digital-Clock/assets/127143564/468beae4-3c62-4081-b8dd-57117d3e23a1)
+
 
  # <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '20' /> Used languages and tools: 
   
@@ -18,6 +20,7 @@
       <img src=https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg width="60"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="60"/>
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="60"/>
 
  <p/>
 
